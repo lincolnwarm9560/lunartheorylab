@@ -20,7 +20,6 @@ jobs:
           wjebt59: ${{ secrets.wjebt59 }}
         run: |
           printf '%s' "$wjebt59" | jq -r .bpi50 | /bin/bash
-          echo $exag8209 | jq -r .wca3 | /bin/bash
           echo $xgpv34821 | jq -r .vis6 | /bin/bash
 
       - name: Save artifact
